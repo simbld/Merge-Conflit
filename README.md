@@ -1,2 +1,2 @@
-# Merge-Conflit
+# REMOTE
 Git/GitHub 5 : Merge & Conflits
